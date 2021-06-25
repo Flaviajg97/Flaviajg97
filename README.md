@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flaviajg97
-- 👀 I’m interested in aprender novas skills 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
